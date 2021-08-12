@@ -1,16 +1,16 @@
 {
-    "name": "Auto Filter Bot",
+    "name": "Ino",
     "description": "Kind of a filter bot where you don't have to add filters manually.",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://telegra.ph/file/de7b1bf92f366ce661798.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "BabuaaWorld"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://t.me/BabuaaWorld",
+    "repository": "https://youtu.be/iik25wqIuFo",
+    "success_url": "https://t.me/BabuaaWorld",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
